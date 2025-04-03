@@ -1,15 +1,3 @@
-Below is a **complete** and **professionally detailed** `README.md` in English. It includes:
-
-- Project overview and purpose  
-- Folder structures with explanations  
-- Step-by-step setup instructions  
-- How to run the Python server both as a script and as a standalone `.exe` created with PyInstaller  
-- How to install and use the Chrome extension  
-
-Feel free to copy this into a file named `README.md` in your repository.
-
----
-
 # Axiom Image Click Downloader
 
 This project allows you to **automatically download images from [https://axiom.trade/pulse](https://axiom.trade/pulse)** as **`.png`** files whenever you click on them, bypassing the default Google Lens behavior. The core components are:
