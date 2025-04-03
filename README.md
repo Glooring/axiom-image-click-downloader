@@ -184,8 +184,3 @@ If you want to distribute the Flask server to someone **without** requiring Pyth
 ## License
 
 No specific open-source license is included. You may adapt and use it **as-is** for personal or educational use. If you plan to share or commercialize it, consider adding an appropriate open-source license (e.g., MIT, Apache 2.0, GPL).
-
----
-
-### Enjoy!
-You now have a working setup that intercepts clicks on images at `https://axiom.trade/pulse`, converts `.webp` images to `.png`, and downloads them instantly.
